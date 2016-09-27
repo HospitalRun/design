@@ -21,3 +21,23 @@ What we plan to add:
 - Brand guide
 - HospitalRun frontend CSS styleguide
 - HospitalRun frontend pattern library
+
+## Branding
+
+### Logo
+
+Default logo:
+
+![logo-on-white](logo/logo-on-white.png)
+
+Logo on navy bg:
+
+![logo-on-white](logo/logo-on-blue.png)
+
+Logo with transparent bg:
+
+![logo-on-white](logo/logo-on-transparent.png)
+
+### Color palette 
+
+[add here]
