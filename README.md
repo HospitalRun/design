@@ -24,8 +24,6 @@ What we plan to add:
 
 ## Branding
 
-### Logo
-
 Default logo:
 
 ![logo-on-white](logo/logo-on-white.png)
@@ -38,6 +36,6 @@ Logo with transparent bg:
 
 ![logo-on-white](logo/logo-on-transparent.png)
 
-### Color palette 
+### Color palette
 
 [add here]
