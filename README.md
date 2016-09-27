@@ -11,6 +11,9 @@ What you can find in this repo:
   - Wristbands
   - Stickers
   - Shirt
+- [Slides](/slides)
+  - Event slide templates
+  - Example slides
 - [Social media avatar](/avatar)
 
 What we plan to add:
