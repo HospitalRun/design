@@ -8,6 +8,7 @@ What you can find in this repo:
   - .png, .jpg, .svg
   - Native logo artwork files
 - [Marketing projects](/marketing)
+  - Website
   - Wristbands
   - Stickers
   - Shirt
