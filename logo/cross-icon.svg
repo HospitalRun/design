@@ -1,5 +1,1 @@
-<svg class="cross-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-  <polygon fill="#1ABC9C" points="21.33,10.67 21.33,0 10.67,0 10.67,10.67 0,10.67 0,21.33 10.67,21.33 10.67,32 21.33,32
-	21.33,21.33 32,21.33 32,10.67 "/>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299 299"><defs><style>.cls-1{fill:url(#linear-gradient);}</style><linearGradient id="linear-gradient" x1="72.58" y1="16.04" x2="227.31" y2="284.02" gradientUnits="userSpaceOnUse"><stop offset="0.01" stop-color="#60d1bb"/><stop offset="0.5" stop-color="#1abc9c"/><stop offset="1" stop-color="#009b9e"/></linearGradient></defs><title>cross-icon</title><path id="cross" class="cls-1" d="M292.94,97.46H205.3V7.06A6.56,6.56,0,0,0,198.74.5H101.26A6.56,6.56,0,0,0,94.7,7.06v90.4H7.06A6.58,6.58,0,0,0,.5,104V196.3a6.23,6.23,0,0,0,6.23,6.24h88v90.4a6.56,6.56,0,0,0,6.56,6.56h97.48a6.56,6.56,0,0,0,6.56-6.56v-90.4h88a6.23,6.23,0,0,0,6.23-6.24V104A6.58,6.58,0,0,0,292.94,97.46Z" transform="translate(-0.5 -0.5)"/></svg>
