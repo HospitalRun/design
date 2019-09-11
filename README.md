@@ -1,23 +1,23 @@
 # HospitalRun design
 
 What you can find in this repo:
-- [UI design files](/ui)
-  - HospitalRun frontend UI Sketch file
-  - Mocks of various screens
+- [Social media avatar and covers](/social)
 - [Logo files](/logo)
   - .png, .jpg, .svg
   - Native logo artwork files
-- [Marketing projects](/marketing)
-  - Wristbands
-  - Stickers
-  - Shirt
-- [Slides](/slides)
-  - Event slide templates
-  - Example slides
-- [Social media avatar](/avatar)
+- [Common images](/images)	
+- [All assets of v1.0.0-beta](/archive)
+	- avatar
+	- beta
+	- email
+	- images
+	- marketing (wristbands, stickers, t-shirt)
+	- slides
+	- UI design files (Sketch file, mocks of various screens)
 
 What we plan to add:
-- HR marketing photos
+- New frontend mockups 
+- New HR marketing photos
 - Brand guide
 - HospitalRun frontend CSS styleguide
 - HospitalRun frontend pattern library
@@ -30,12 +30,10 @@ Default logo:
 
 Logo on navy bg:
 
-![logo-on-white](logo/logo-on-blue.png)
+![logo-on-white](logo/logowh-on-blue.png)
 
 Logo with transparent bg:
 
 ![logo-on-white](logo/logo-on-transparent.png)
 
 ### Color palette
-
-[add here]
