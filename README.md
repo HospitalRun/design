@@ -1,4 +1,4 @@
-# HospitalRun design
+# HospitalRun design   ![Size](https://img.shields.io/github/repo-size/hospitalrun/design)
 
 ## Structure
 
