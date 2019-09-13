@@ -7,7 +7,9 @@ What you can find in this repo:
 - [Logo files](/logo)
   - .png, .jpg, .svg
   - Native logo artwork files
-- [Common images](/images)	
+- [Common images](/images)
+- [ui](/ui)
+	- color palette (scss, png, svg)
 - [All assets of v1.0.0-beta](/archive)
 	- avatar
 	- beta
@@ -66,3 +68,33 @@ Logo with transparent bg:
 ![logo-on-white](logo/logo-on-transparent.png)
 
 ### Color palette
+
+[Here](https://coolors.co/1abc9c-009b9e-273647-011627-fdfffc) you can find an initial reference of the official HospitalRun colours.
+
+![color palette](https://github.com/HospitalRun/design/blob/master/ui/color%20palette/palette.png)
+
+Hexadecimal
+```
+#1abc9c
+#009b9e
+#273647
+#011627
+#fdfffc
+```
+
+SCSS
+```scss
+/* HSL */
+$color1: hsla(168%, 76%, 42%, 1);
+$color2: hsla(181%, 100%, 31%, 1);
+$color3: hsla(212%, 29%, 22%, 1);
+$color4: hsla(207%, 95%, 8%, 1);
+$color5: hsla(100%, 100%, 99%, 1);
+
+/* RGB */
+$color1: rgba(26, 188, 156, 1);
+$color2: rgba(0, 155, 158, 1);
+$color3: rgba(39, 54, 71, 1);
+$color4: rgba(1, 22, 39, 1);
+$color5: rgba(253, 255, 252, 1);
+```
