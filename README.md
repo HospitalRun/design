@@ -17,7 +17,7 @@ What you can find in this repo:
   - email
   - images
 - Marketing
-  - [Stickers](/marketing/stickers) (155mmx30mm and 50mmx50mm) print with [stickerrmule](https://www.stickermule.com/it/unlock?ref_id=0665902701&utm_medium=link&utm_source=invite)
+  - [Stickers](/marketing/stickers) (157mmx30 mm and 47mmx50mm) print with [stickerrmule](https://www.stickermule.com/it/unlock?ref_id=0665902701&utm_medium=link&utm_source=invite)
   - Slides
 - UI design files (Sketch file, mocks of various screens)
 
