@@ -9,8 +9,17 @@ What you can find in this repo:
   - .png, .jpg, .svg
   - Native logo artwork files
 - [Common images](/images)
-- [ui](/ui) - color palette (scss, png, svg)
-- [All assets of v1.0.0-beta](/archive) - avatar - beta - email - images - marketing - [stickers](/marketing/stickers) - print with [stickerrmule](https://www.stickermule.com/it/unlock?ref_id=0665902701&utm_medium=link&utm_source=invite) - slides - UI design files (Sketch file, mocks of various screens)
+- [UI](/ui)
+  - color palette (scss, png, svg)
+- [All assets of v1.0.0-beta](/archive)
+  - avatar
+  - beta
+  - email
+  - images
+- Marketing
+  - [Stickers](/marketing/stickers) (155mmx30mm and 50mmx50mm) print with [stickerrmule](https://www.stickermule.com/it/unlock?ref_id=0665902701&utm_medium=link&utm_source=invite)
+  - Slides
+- UI design files (Sketch file, mocks of various screens)
 
 What we plan to add:
 
