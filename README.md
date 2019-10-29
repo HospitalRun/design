@@ -31,7 +31,7 @@ What we plan to add:
 
 ## Contributing
 
-Contributions are always welcome. If you’re serious about contributing, we also encourage you to [join our Slack](https://hospitalrun-slackin.herokuapp.com/), where the majority of the project communication happens.
+Contributions are always welcome. If you’re serious about contributing, we also encourage you to [join our Slack](https://hospitalrun-slack.herokuapp.com/), where the majority of the project communication happens.
 
 **Read carefully before committing!**
 
