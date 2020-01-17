@@ -104,3 +104,9 @@ $color3: rgba(39, 54, 71, 1);
 $color4: rgba(1, 22, 39, 1);
 $color5: rgba(253, 255, 252, 1);
 ```
+
+### Typefaces
+
+- Titles: [Kanit](https://fonts.google.com/specimen/Kanit)
+
+- Body text: [Montserrat](https://fonts.google.com/specimen/Montserrat)
