@@ -61,15 +61,15 @@ Every file type you want to associate with Git LFS will need to be added with gi
 
 Default logo:
 
-![logo-on-white](logo/logo-on-white.png)
+![logo-on-white](logo/horizontal/logo-on-white.png)
 
 Logo on navy bg:
 
-![logo-on-white](logo/logowh-on-blue.png)
+![logo-on-white](logo/horizontal/logowh-on-blue.png)
 
 Logo with transparent bg:
 
-![logo-on-white](logo/logo-on-transparent.png)
+![logo-on-white](logo/horizontal/logo-on-transparent.png)
 
 ### Color palette
 
